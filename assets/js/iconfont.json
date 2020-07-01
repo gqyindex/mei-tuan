@@ -1,0 +1,37 @@
+{
+  "id": "1917424",
+  "name": "meiTuan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1147047",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "3858023",
+      "name": "民宿",
+      "font_class": "minsu_",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "15463136",
+      "name": "饿了么,外卖,餐饮",
+      "font_class": "elemo-waimai-canyin",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15559691",
+      "name": "大众点评",
+      "font_class": "shejiaotubiao-43",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}

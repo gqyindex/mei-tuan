@@ -1,0 +1,21 @@
+{
+  "name": "mei-tuan",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.13.0",
+    "sass": "^1.26.9"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}
