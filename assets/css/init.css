@@ -1,0 +1,103 @@
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    margin: 0;
+    position: relative;
+}
+
+a,
+b,
+i,
+em,
+sub,
+sup,
+abbr,
+span,
+code,
+time,
+label,
+input,
+audio,
+small,
+video,
+button,
+select,
+canvas,
+strong,
+address,
+textarea,
+progress {
+    display: inline-block;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+pre {
+    margin: 0;
+}
+
+i,
+em,
+dfn,
+cite,
+address {
+    font-style: normal;
+}
+
+b,
+strong {
+    font-weight: inherit;
+}
+
+small {
+    font-size: inherit;
+}
+
+abbr[title] {
+    border-bottom: none;
+    text-decoration: none;
+}
+
+sub,
+sup {
+    line-height: 1;
+    font-size: 12px;
+}
+
+input,
+button,
+select,
+option,
+textarea {
+    appearance: none;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    outline: none;
+    color: inherit;
+    font: inherit;
+    border: none;
+}
+
+ul,
+li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <el-container>
+    <el-container class="main-container">
       <template>
          <my-header />
       </template>
@@ -31,5 +31,5 @@ export default {
 }
 
 </script>
-<style>
+<style lang="scss" scoped>
 </style>

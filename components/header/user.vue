@@ -22,5 +22,9 @@ export default {
 }
 
 </script>
-<style scoped>
+<style scoped lang="scss">
+$width: red;
+a {
+  color: $t-small;
+}
 </style>
